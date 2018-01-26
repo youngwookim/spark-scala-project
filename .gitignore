@@ -3,3 +3,6 @@
 .classpath
 .project
 .settings/
+target
+scalastyle-output.xml
+dependency-reduced-pom.xml
