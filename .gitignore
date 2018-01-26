@@ -1,8 +1,17 @@
 *.class
 *.log
+
 .classpath
 .project
 .settings/
+
 target
+
+.idea/
+*.iml
+*.iws
+ 
+.DS_Store
+
 scalastyle-output.xml
 dependency-reduced-pom.xml
